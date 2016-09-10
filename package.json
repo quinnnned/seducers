@@ -69,5 +69,8 @@
     "rimraf": "^2.3.4",
     "tape": "^4.6.0",
     "watch": "^0.19.2"
+  },
+  "dependencies": {
+    "freddies": "^1.0.2"
   }
 }
