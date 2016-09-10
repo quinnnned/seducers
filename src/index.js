@@ -1,0 +1,1 @@
+export const combineSeducers = () => 'just a placeholder';
