@@ -1,4 +1,4 @@
-# THIS PROJECT IS DEPRECATED. USE [redux-seeds](https://travis-ci.org/quinnnned/redux-seeds) INSTEAD
+# THIS PROJECT IS DEPRECATED. USE [redux-seeds](https://github.com/quinnnned/redux-seeds) INSTEAD
 
 
 # seducers
